@@ -11,7 +11,7 @@ A simple weather application built with React. This app fetches weather data fro
 ## Tech Stack
 
 - React
-- CSS 
+- HTML, CSS, JS 
 - Weather API (e.g., OpenWeatherMap)
 
 ## Installation
